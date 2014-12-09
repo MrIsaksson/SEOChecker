@@ -1,7 +1,10 @@
 SEOChecker
 ==========
 
+SEOChecker allow you to check any site for SEo related tags. Easy to start ad easy to develop.
+
 Download and point browser to webroot/seoapptester.php. It will work off the bat. 
+
 
 By Hampus Isaksson, hampusisaksson@yahoo.se.
 
