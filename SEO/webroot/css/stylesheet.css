@@ -1,0 +1,54 @@
+@import url('normalize.css');
+@import url('forms.css');
+
+html {
+width: 960px;
+margin: 0 auto;
+}
+
+p {
+	line-height:15%;
+}
+
+#seoform {
+	width:35%;
+	float:left;
+	background:#555;
+
+}
+
+#seoform h2 {
+	color:white;
+	font-size:5em;
+}
+
+form input[type=text], form input[type=submit] {
+	text-align:center;
+	width:90%;
+	height:40px;
+}
+
+form input[type=submit], form input[type=text], #seooutput h2, #seooutput p, #seooutput h3, #seoform h2 {
+	margin-left:5%;
+}
+#container {
+	overflow:hidden;
+	background:#555;
+}
+
+
+#seooutput {
+	float:left;
+	width:65%;
+	background:#eee;
+	min-height:600px;
+}
+
+.seolink {
+	
+}
+
+.seoerrormessage {
+	margin-top:38%;
+}
+
