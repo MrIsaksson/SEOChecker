@@ -1,0 +1,22 @@
+{
+    "name": "SEO/SEOChecker",
+    "type": "library",
+    "description": "SEOChecker for websites",
+    "keywords": ["SEO","search"],
+    "homepage": "https://github.com/MrIsaksson/SEOChecker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hampus Isaksson",
+            "email": "hampusisaksson@yahoo.se",
+            "homepage": "https://github.com/MrIsaksson/SEOChecker",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "SEO": "src" }
+    }
+}
