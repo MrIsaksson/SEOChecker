@@ -1,6 +1,5 @@
 <?php
 
-	namespace SEO\SEO;
 
 
 	class CSeo {
