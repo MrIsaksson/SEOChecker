@@ -1,5 +1,7 @@
 <?php
 
+	namespace SEO\SEO;
+
 	class CSeoOutput {
 	
 	
