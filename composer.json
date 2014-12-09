@@ -1,5 +1,5 @@
 {
-    "name": "SEO/SEOChecker",
+    "name": "strongbeard/SEOChecker",
     "type": "library",
     "description": "SEOChecker for websites",
     "keywords": ["SEO","search"],
